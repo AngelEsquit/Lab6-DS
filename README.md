@@ -18,8 +18,11 @@ Los notebooks se ejecutan en orden; cada uno lee los archivos que deja el anteri
 | `02_analisis_exploratorio.ipynb` | 3. Análisis exploratorio |
 | `03_red_bipartita.ipynb` | 4. Red bipartita autor-video |
 | `04_proyecciones_topologia.ipynb` | 5. Proyecciones · 6. Topología y fragmentación |
+| `05_comunidades_centralidad.ipynb` | 7. Comunidades · 8. Nodos centrales y participantes puente |
 
 Datos de entrada: `data/youtube_videos.csv` y `data/youtube_comments.csv`. Los demás archivos de `data/` son generados por los notebooks.
+
+Pendiente: 9. Análisis de contenido y sentimiento · 10. Interpretación, limitaciones y conclusiones.
 
 ## Dependencias
 
